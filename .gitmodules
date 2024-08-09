@@ -4,3 +4,6 @@
 [submodule "learning-lm-rs"]
 	path = learning-lm-rs
 	url = https://github.com/Micro-ATP/learning-lm-rs.git
+[submodule "TinyInfiniTensor"]
+	path = TinyInfiniTensor
+	url = https://github.com/Micro-ATP/TinyInfiniTensor.git
